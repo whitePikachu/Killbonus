@@ -1,0 +1,4 @@
+name: Killbonus
+version: '${project.version}'
+main: com.fenglin.killbonus
+api-version: 1.19
